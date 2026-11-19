@@ -5,8 +5,7 @@
 <h2 align="center">I turn ideas into clean, working backend solutions 🚀</h2>
 
 <p align="center">
-  Proactive T-shaped specialist with experience in contract work, team-based projects and startups.<br/>
-  I love sharing knowledge, mentoring and helping other developers grow 🌱
+Backend engineer (Python, FastAPI, PostgreSQL). I build AI-assisted development processes where the quality doesn't depend on who writes the code: a person or an agent.
 </p>
 
 ## 🛠️ Tech Stack
